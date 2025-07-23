@@ -1,0 +1,9 @@
+Looking back at the work I’ve done in this class so far, I can honestly say I’ve come a long way since the beginning of the course. At first, when we were learning about linked
+ lists and basic node structures, I didn’t fully get why we were doing things in a certain way. A lot of it felt confusing, and I was mostly just trying to make the code 
+ compile without really thinking about how everything was connected. But after working on more projects and messing up a few times, I started to understand why planning ahead 
+ actually helps. With this week’s assignment, I really had to think about how to approach the problem. It wasn’t something I could just wing or guess my way through.
+  Writing the contains method helped me understand how hash tables actually use hashing to locate things, and I had to use loops more carefully than before. 
+  The rehashing part was harder because it involved copying over the old data into a new bigger array, and I had to keep track of everything like usage and load factor.
+   It was annoying at first, but once it clicked, it felt kind of satisfying to figure it out. Another thing I noticed is I’ve gotten better at spotting errors and testing 
+   my code. The test file helped a lot because I could instantly see what was failing and fix it, which is way better than just guessing if it works. 
+   I used to panic when something didn’t run the first time, but now I’ve learned to slow down and read what’s actually happening
